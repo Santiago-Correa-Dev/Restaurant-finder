@@ -1,0 +1,8 @@
+{
+  "name": "Restaurant Finder",
+  "short_name": "Restaurants",
+  "description": "Find an awesome Restaurant quickly and offline",
+  "lang": "en-US",
+  "start_url": "/index.html",
+  "display": "standalone"
+}
